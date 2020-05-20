@@ -1,2 +1,0 @@
-# DefaultReactApp
-Created with CodeSandbox
